@@ -18,11 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="right">
- <abc>
-  <br>
-    <![Xinwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xinwon&theme=ambient_gradient&show_icons=true)>
- </abc>
-</h2>
-
-
+![Xinwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xinwon&theme=ambient_gradient&show_icons=true)>
