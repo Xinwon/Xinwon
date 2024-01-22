@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Xinwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=ambient_gradient&show_icons=true)
+![Xinwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xinwon&theme=ambient_gradient&show_icons=true)
 
